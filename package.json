@@ -1,0 +1,13 @@
+{
+  "name": "helloworld",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Hello World app, replying machine hostname.",
+  "author": "Martin Kretz <martin.kretz@bitbetter.se>",
+  "dependencies": {
+    "express": "~4.12.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
